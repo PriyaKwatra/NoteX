@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "854450286576",
+    "firebase_url": "https://notex-4e8b7.firebaseio.com",
+    "project_id": "notex-4e8b7",
+    "storage_bucket": "notex-4e8b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854450286576:android:3cc72330c6146364",
+        "android_client_info": {
+          "package_name": "com.example.acer.notex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854450286576-tj7onblf6n23dkb35033r798krvukcbs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.acer.notex",
+            "certificate_hash": "043abe3680587f1d15adaf1795ac89669fc3e9f1"
+          }
+        },
+        {
+          "client_id": "854450286576-urjr10p9rrufpe9lmu3dd7rhh7cljglq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIdYCXc2iIaR3hwGkoZE01AbS2l1THEok"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854450286576-urjr10p9rrufpe9lmu3dd7rhh7cljglq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

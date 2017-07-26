@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recyclerv"
+            android:layout_width="454dp"
+            android:layout_height="0dp"
+            android:layout_weight="7.02">
+
+        </android.support.v7.widget.RecyclerView>
+
+        <android.support.design.widget.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:id="@+id/newnote"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:layout_gravity="end"
+            android:src="@mipmap/add"
+            app:fabSize="mini"/>
+
+
+
+
+
+    </LinearLayout>
+
+

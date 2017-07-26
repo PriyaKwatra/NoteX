@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        app:showAsAction="always"
+        android:icon="@mipmap/important"
+        android:title="@string/important_notes"
+        android:id="@+id/important"/>
+    <item
+        app:showAsAction="always"
+        android:title="export"
+        android:id="@+id/export"
+        />
+
+    <item
+        app:showAsAction="always"
+        android:title="@string/signin"
+        android:id="@+id/Signin"
+        />
+
+
+
+</menu>
